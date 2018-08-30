@@ -23,7 +23,7 @@ addon_info = {
 	# Author(s)
 	"addon_author" : u"小可 <zhangke19@qq.com>",
 	# URL for the add-on documentation support
-	"addon_url" : None,
+	"addon_url" : "<https://github.com/zhangkeke1993/nvda-addon-MicrosoftPinyinHelper>",
 	# Documentation file name
 	"addon_docFileName" : "readme.html",
 }
