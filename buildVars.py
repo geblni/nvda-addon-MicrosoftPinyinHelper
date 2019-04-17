@@ -26,8 +26,13 @@ addon_info = {
 	"addon_url" : None,
 	# Documentation file name
 	"addon_docFileName" : "readme.html",
+	#旧版本
+	"addon_minimumNVDAVersion" : "2018.4",
+	#最新测试过的版本
+	"addon_lastTestedNVDAVersion" : "2019.2",
 }
 
+#lastTestedNVDAVersion = 
 
 import os.path
 
